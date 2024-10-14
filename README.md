@@ -16,5 +16,3 @@ BeHonest is an anonymous messaging app developed in PHP that allows users to sha
 3. **Share or Publish:** Share the link privately with specific recipients or publish it publicly on the web.
 4. **Receive Messages:** Anyone with the link can respond anonymously to the conversation.
 5. **Engage Anonymously:** Recipients can engage in anonymous conversations without knowing who the sender is.
-
-## Installation
